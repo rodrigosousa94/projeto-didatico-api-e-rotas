@@ -1,0 +1,11 @@
+/* home.module.css */
+
+.home {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+  }
+
+  .nome{
+    margin: .5rem 0;
+  }
